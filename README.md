@@ -1,9 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20boxion's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxion)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxion)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxion&show_icons=true&theme=radical)
