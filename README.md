@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20boxion's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-![boxion's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxion&show_icons=true&theme=radical)
+<--![boxion's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxion&show_icons=true&theme=radical)-->
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
