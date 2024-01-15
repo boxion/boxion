@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Boxion's%20GitHub!%20👩‍💻&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Boxion's%20GitHub!%20👩‍💻&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=130)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboxion&count_bg=%2379C83D&title_bg=%2369655C&icon=iconify.svg&icon_color=%2377FF9F&title=GITHUB&edge_flat=false"/></a>
 
