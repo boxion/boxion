@@ -7,6 +7,10 @@
 
 ## 🔨 To Study 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+
+    ### 🪄 Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,css,html,idea&theme=dark)](https://skillicons.dev)
     <p><strong>📌Main</strong></p>
     <div>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white">
@@ -16,7 +20,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     </div>
     <br>
-    <p><strong>📌Used at Least Once</strong></p>
+<!--     <p><strong>📌Used at Least Once</strong></p>
     <div>
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -39,5 +43,5 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</div><br>
+</div><br> -->
 </div>
