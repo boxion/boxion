@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,css,html,react,figma,vscode&theme=dark)](https://skillicons.dev)
 
-<br><br>
+<br>
 
 ### 💻 Available Skills
 
