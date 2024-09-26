@@ -8,7 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxion&layout=compact&theme=dark)
 </div>
 
-<div align="center">
 ### 🪄 Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,css,html,react,figma,vscode&theme=dark)](https://skillicons.dev)
@@ -18,7 +17,7 @@
 ### 💡 Available Skills
 
 [![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
-</div>
+
 
 
   <!-- 
