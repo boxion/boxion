@@ -10,13 +10,13 @@
 
 <div align="center">
 
-### 🪄 Main Skills
+### 💻 Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,css,html,react,figma,vscode&theme=dark)](https://skillicons.dev)
 
 <br><br>
 
-### 💡 Available Skills
+### 💻 Available Skills
 
 [![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
 
