@@ -2,6 +2,7 @@
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboxion&count_bg=%2379C83D&title_bg=%2369655C&icon=iconify.svg&icon_color=%2377FF9F&title=GITHUB&edge_flat=false"/></a>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxion&layout=compact&theme=dark)
 ![boxion's GitHub stats](https://github-readme-stats.vercel.app/api?username=boxion&show_icons=true&theme=radical)
