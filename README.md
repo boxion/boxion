@@ -9,13 +9,12 @@
 [![GitHub Followers](https://img.shields.io/github/followers/boxion?style=social)](https://github.com/boxion)
 [![GitHub Stars](https://img.shields.io/github/stars/boxion?style=social)](https://github.com/boxion)
 
-
 ## 🌟 About Me  
 👋 안녕하세요! <br>
-🎓 UMC 5기 프론트엔드 트랙 <br>
-🎓 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
+🎓 2023 UMC 5기 프론트엔드 트랙 <br>
+🎓 2024 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 ### 🚀 Main Skills  
 [![Main Skills](https://skillicons.dev/icons?i=github,js,css,html,react,figma,vscode&theme=dark)](https://skillicons.dev)
 
@@ -23,7 +22,6 @@
 [![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats  
-
 <table>
   <tr>
     <td valign="top">
@@ -39,7 +37,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:psh2968@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://your-blog.com)
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
