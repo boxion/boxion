@@ -9,14 +9,13 @@
 [![GitHub Followers](https://img.shields.io/github/followers/boxion?style=social)](https://github.com/boxion)
 [![GitHub Stars](https://img.shields.io/github/stars/boxion?style=social)](https://github.com/boxion)
 
----
+
 
 ## 🌟 About Me  
-👋 안녕하세요! 저는 **프론트엔드 개발자**입니다.  
-🎓 UMC 5기 프론트엔드 트랙
-🎓 멋쟁이사자처럼 12기 프론트엔드🦁
+👋 안녕하세요! 저는 **프론트엔드 개발자**입니다. <br>
+🎓 UMC 5기 프론트엔드 트랙 <br>
+🎓 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
 
----
 
 ## ⚡ Tech Stack
 ### 🚀 Main Skills  
@@ -25,7 +24,6 @@
 ### 🔥 Available Skills  
 [![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
 
----
 
 ## 📊 GitHub Stats  
 
@@ -40,34 +38,12 @@
   </tr>
 </table>
 
----
-
-## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=boxion&theme=gruvbox)
-
----
-
-## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=boxion&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 💡 Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/boxion/boxion/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Contact Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:psh2968@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://your-blog.com)
 
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
