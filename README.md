@@ -10,12 +10,10 @@
 [![GitHub Stars](https://img.shields.io/github/stars/boxion?style=social)](https://github.com/boxion)
 
 
-
 ## 🌟 About Me  
 👋 안녕하세요! <br>
 🎓 UMC 5기 프론트엔드 트랙 <br>
 🎓 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
-
 
 ## ⚡ Tech Stack
 ### 🚀 Main Skills  
@@ -23,7 +21,6 @@
 
 ### 🔥 Available Skills  
 [![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
-
 
 ## 📊 GitHub Stats  
 
@@ -37,7 +34,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 📫 Contact Me  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:psh2968@naver.com)
