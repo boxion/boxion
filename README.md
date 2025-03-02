@@ -6,9 +6,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboxion&count_bg=%2379C83D&title_bg=%2369655C&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/boxion?style=social)](https://github.com/boxion)
-[![GitHub Stars](https://img.shields.io/github/stars/boxion?style=social)](https://github.com/boxion)
-
 ## 🌟 Activity  
 🎓 2023 UMC 5기 프론트엔드 트랙 <br>
 🎓 2024 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
