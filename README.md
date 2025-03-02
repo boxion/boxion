@@ -9,8 +9,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/boxion?style=social)](https://github.com/boxion)
 [![GitHub Stars](https://img.shields.io/github/stars/boxion?style=social)](https://github.com/boxion)
 
-## 🌟 About Me  
-👋 안녕하세요! <br>
+## 🌟 Activity  
 🎓 2023 UMC 5기 프론트엔드 트랙 <br>
 🎓 2024 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
 
