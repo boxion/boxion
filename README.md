@@ -7,15 +7,13 @@
 </a>
 
 ## 🌟 Activity  
+🎓 2021 ~ 2024 학생회 <br>
 🎓 2023 UMC 5기 프론트엔드 트랙 <br>
 🎓 2024 멋쟁이사자처럼 12기 프론트엔드🦁 <br>
 
 ## ⚡ Tech Stack  
 ### 🚀 Main Skills  
 [![Main Skills](https://skillicons.dev/icons?i=github,js,css,html,react,figma,vscode&theme=dark)](https://skillicons.dev)
-
-### 🔥 Available Skills  
-[![Available Skills](https://skillicons.dev/icons?i=androidstudio,c,eclipse,firebase,idea,java,kotlin,mysql,netlify,notion,spring,swift&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats  
 <table>
